@@ -1,0 +1,48 @@
+
+/*koppen*/
+h1,h2,h3,h4,h5,h6{color: black;
+line-height: 1;}
+/*header*/
+header{
+    background-color: #FF0000;
+    padding: 32px 32px 0 46px;
+    width: 100%;
+    height: 200px;
+}
+    /*body*/
+    body{
+        background-color: #FFFFFF;
+        color: black;
+    }
+/*footer*/
+footer{
+    background-color: #0099FF;
+    padding: 32px 32px 0 46px;
+    width: 100%;
+    height: 200px;
+}
+/*inhoud*/
+.inhoud{font-size: 1.1em;
+background-color: #99FF99;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
